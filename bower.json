@@ -10,7 +10,7 @@
         "knockout": "~3.2.0"
     },
     "main": [
-        "build/output/*.js"
+        "build/output/knockout.mapping-latest.js"
     ],
     "ignore": [
         "*", "!build/output/*"
